@@ -1,0 +1,2 @@
+<head><script defer src="./app.js"></script>
+</head>
