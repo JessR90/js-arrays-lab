@@ -277,3 +277,51 @@ numArrays.forEach(element => {
 })
 
 console.log('Exercise 15 result:\n', total);
+
+/*Going over the answer using nested loops
+for (let i = 0; i < numArrays.length; i++) {
+   console.log(numArrays[i])
+   for (let k = 0; < numArrays[i].length; k++) {
+   console.log(k)
+   console.log(numArrays[i][k])
+   }
+}
+   console.log(forTotal)
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
